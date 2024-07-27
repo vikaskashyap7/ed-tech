@@ -23,7 +23,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
 	cors({
-		origin:"https://ed-tech-lac-seven.vercel.app/",
+		origin:"https://ed-tech-lac-seven.vercel.app",
 		credentials:true,
 	})
 )
