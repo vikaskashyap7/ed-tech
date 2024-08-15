@@ -36,6 +36,6 @@ Contributions are welcome! If you have any suggestions or find any issues, pleas
 ![LearnWaveDBSchema](https://github.com/Vansh351/LearnWave/assets/96383954/323091c2-3554-487b-ae0b-06de6171dc1c)
 
 
-RazorPay Payment Flow Chart
+### RazorPay Payment Flow Chart
 ![razorpay](https://github.com/user-attachments/assets/201508e9-7f03-48bf-85fc-426b8dbb3fff)
 
